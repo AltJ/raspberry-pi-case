@@ -2,6 +2,7 @@ raspberry-pi-case
 =================
 
 A Raspberry Pi case design you can use to cut out a case for your pi out of paper, cardstock or plastic sheets.
+(http://www.altj.com/raspberry-pi-case-made-from-cardboard-cardstock-paper-or-plastic/)
 ![Assembled case](http://www.altj.com/wp-content/uploads/2013/04/img_3670-1024x682.jpg "Assembled case")
 
 This file can be used directly by a Silhouette Cameo to cut out a case for your Raspberry Pi.  
